@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+ .header-side{
+    background-image: linear-gradient(to right, #0E0301,rgba(255,0,0,0)), url( ../images/3.jpg);
+     
+    height: 80vh;
+    width: 100%;
+    opacity: 20;
+}  
+.iconss {
+    margin-right: 190px;
+}
+.card-section:hover{
+    display: block;
+    
+    box-shadow: 0 0 30px rgb(0 0 0 / 10%);
+
+}
+.services-section{
+    background-color: #f7fbfe;
+    width: 100%;
+ 
+    margin-top: 190px;
+}
+.one{
+    background-color: rgb(65, 65, 201);
+    width: 50px;
+    margin-left: 48%;
+    height: 0.6vh;
+}
+.pic:hover{
+    box-shadow: 0 0 30px rgb(0 0 0 / 40%);    
+}
+.contact-section{
+    background-color: #f7fbfe;
+    width: 100%;
+      
+    margin-top: 190px;
+}
+.location-side{
+    background-color: #ffffff;
+    width: 900px;
+      
+    margin-top: 100px;
+}
+.form-side{
+    background-color: #ffffff;
+    width: 900px;
+    
+    margin-top: 100px;
+    border: 1px solid rgb(226, 226, 226); 
+}
+.footer-section{
+    background-color: #ffffff;
+    width:  100%;
+      
+    margin-top: 100px;
+    
+} 
+ul li{
+    list-style: none;
+    font-size: 17px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: cornflowerblue;
+}
+ 
+ 
